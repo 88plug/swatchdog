@@ -1,0 +1,3 @@
+watchfor /MASTERNODE_SYNC_WAITING/
+        echo green
+        break
